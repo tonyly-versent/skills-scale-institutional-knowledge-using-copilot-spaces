@@ -36,3 +36,7 @@ Standardize how OctoAcme releases features to production to reduce risk and impr
 - Notable changes:
 - Migration steps (if any):
 - Known issues:
+
+## Related Documents
+- [Roles & Personas](octoacme-roles-and-personas.md) — role descriptions for Release Manager, QA Lead, Support Lead, and all other delivery roles
+- [Cross-functional RACI & Handoffs Checklist](octoacme-cross-functional-raci-and-handoffs.md) — RACI matrix and release phase handoff checklist
