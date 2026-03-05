@@ -24,5 +24,6 @@ Quality is built in, not bolted on. Continuous integration, mandatory code revie
 | [Release & Deployment](octoacme-release-and-deployment.md) | Release readiness, deployment steps, and post-release verification |
 | [Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md) | Retrospective format, capturing learnings, and feeding improvements forward |
 | [Roles & Personas](octoacme-roles-and-personas.md) | Definitions and responsibilities for every role involved in delivery |
+| [Cross-functional RACI & Handoffs Checklist](octoacme-cross-functional-raci-and-handoffs.md) | RACI matrix and handoff checklists for every project phase, with clear ownership per role |
 
 Additions or improvements to these docs are welcome via issues or pull requests!
